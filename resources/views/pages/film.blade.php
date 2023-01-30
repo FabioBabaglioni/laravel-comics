@@ -1,5 +1,5 @@
-@extends(`layouts.main-layout`)
+@extends("layouts.main-layout")
 
-@section(`content`)
+@section("content")
 <h1>Hello world</h1>
 @endsection
